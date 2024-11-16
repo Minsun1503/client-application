@@ -1,0 +1,9 @@
+psutil
+numpy
+requests
+py-cpuinfo
+psycopg2-binary
+pyopencl
+siphash24
+GPUtil
+cupy
